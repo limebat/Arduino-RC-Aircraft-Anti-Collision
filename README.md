@@ -1,4 +1,4 @@
-# RCAircraftAntiCollision
+# Arduino RC Aircraft Anti Collision
 Code for Arduino anti-collision for RC plane autonomous systems.
 
 Note:
